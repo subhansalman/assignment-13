@@ -14,7 +14,7 @@ html{
 }
 .container-two{
     width: 50%;
-    margin: auto;
+    margin: 20px auto;
 }
 li{
     list-style: none;
