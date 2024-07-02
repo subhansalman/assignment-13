@@ -12,3 +12,13 @@ html{
     text-align: center;
     font-size: 2rem;
 }
+.container-two{
+    width: 50%;
+    margin: auto;
+}
+li{
+    list-style: none;
+    /* text-align: center; */
+    display: inline;
+    text-align: center;
+}
