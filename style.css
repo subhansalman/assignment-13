@@ -12,7 +12,7 @@ html{
     width: 50%;
     margin: auto;
     text-align: center;
-    font-size: 2rem;
+    font-size: 4rem;
 }
 .container-two{
     width: 50%;
@@ -32,9 +32,10 @@ li{
     margin: 20px auto;
     text-align: center;
     font-weight: normal;
+    font-size: 2rem;
 }
 img{
-    width: 200px;
-    height: 200px;
+    width: 260px;
+    height: 260px;
     display: inline;
 }
