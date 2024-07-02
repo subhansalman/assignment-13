@@ -2,9 +2,14 @@
     font-family: serif;
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
 }
 html{
     font-size: 62.5%;
+    /* border: 2px groove black; */
+    border-color: black;
+    border-width: 10px;
+    
 }
 .container-one{
     width: 50%;
