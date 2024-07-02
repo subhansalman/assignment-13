@@ -27,3 +27,8 @@ li{
     display: inline;
     padding: 40px;    
 }
+.container-three{
+    width: 50%;
+    margin: 20px auto;
+    display: inline-block;
+}
