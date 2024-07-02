@@ -37,7 +37,6 @@ a:active{
     color: rgb(255, 16, 16);
 }
 a:hover, a.on{
-    text-decoration: underline;
     color: rgb(255, 0, 0);
 }
 .container-three{
